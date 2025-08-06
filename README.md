@@ -2,6 +2,16 @@
 
 A simple and clean Todo List application built using **React**. Users can add items with a name and price, edit them, or delete them from the list.
 
+---
+
+## 🔗 GitHub Repository  
+[https://github.com/codebybille-2003/Todo-App](https://github.com/codebybille-2003/Todo-App)
+
+## 🔗 Live Demo  
+[https://codebybille-2003.github.io/Todo-App/](https://codebybille-2003.github.io/Todo-App/)
+
+---
+
 ## 🔧 Features
 - Add new items with a name and price
 - Edit existing items
