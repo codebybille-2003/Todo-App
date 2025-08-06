@@ -1,8 +1,32 @@
-# React + Vite
+# React Todo App 📝
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and clean Todo List application built using **React**. Users can add items with a name and price, edit them, or delete them from the list.
 
-Currently, two official plugins are available:
+## 🔧 Features
+- Add new items with a name and price
+- Edit existing items
+- Delete items from the list
+- Automatically resets input after submission
+- Unique ID generation using `uuid`
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
+- React (Functional Components + Hooks)
+- CSS (global styling)
+- UUID (for unique IDs)
+
+## 📁 Folder Structure
+src/
+├── App.js  
+├── Form.js  
+├── TodoList.js  
+├── global.css  
+└── index.js
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/codebybille-2003/Todo-App.git
+cd Todo-App
+npm install
+npm run dev
+```
